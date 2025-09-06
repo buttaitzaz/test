@@ -1,2 +1,6 @@
-print('I did it myself')
-print ('just checking how it works')
+print("This is Jay, and it's my first test file")
+print("I've already added my GitHub account and just going to add this file to the repository")
+print("to add the file, use the command git add . when we use dot, it'll add everyhting in the file we're currently working in")
+print("second step is to check the status and for that simply use the command git status")
+print("then to push the file for staging, use this command, git commit -m first commit, first commit will be in double inverted commas")
+print("to add the file, use the final command git push -u origin main")
