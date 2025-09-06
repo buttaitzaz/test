@@ -1,0 +1,5 @@
+This is a test file by Jay Em (Aitzaz Ahsan).
+To add this to the repository, we'll use 3 commands
+First command is to put the file in staging, for that, command will be git add file name
+Secondly, to check the status, we'll use this command >> git status
+Lastly, to push the file, we'll use this command, git commit -m second commit in brackets, and then origin main
